@@ -1,0 +1,62 @@
+[Q] What is the Babel fish?
+[A] The Babel fish is a small, bright yellow fish, which can be placed in someone's ear in order for them to be able to hear any language translated into their first language [ANS_END]
+
+[Q] What is the capital city of France?
+[A] The capital city of France is Paris. [ANS_END]
+
+[Q] Who was the first person to walk on the moon?
+[A] Neil Armstrong was the first person to walk on the moon. [ANS_END]
+
+[Q] What is the largest planet in our solar system?
+[A] Jupiter is the largest planet in our solar system. [ANS_END]
+
+[Q] Who painted the Mona Lisa?
+[A] The Mona Lisa was painted by Leonardo da Vinci. [ANS_END]
+
+[Q] What is the tallest mountain in the world?
+[A] Mount Everest is the tallest mountain in the world. [ANS_END]
+
+[Q] What is the currency of Japan?
+[A] The currency of Japan is the Japanese yen. [ANS_END]
+
+[Q] What is the largest ocean on Earth?
+[A] The largest ocean on Earth is the Pacific Ocean. [ANS_END]
+
+[Q] Who wrote the play "Romeo and Juliet"?
+[A] William Shakespeare wrote the play "Romeo and Juliet". [ANS_END]
+
+[Q] What is the chemical symbol for gold?
+[A] The chemical symbol for gold is Au. [ANS_END]
+
+[Q] Who is the current President of the United States?
+[A] As of my knowledge cutoff in September 2021, Joe Biden is the current President of the United States. [ANS_END]
+
+[Q] What is the capital city of Australia?
+[A] The capital city of Australia is Canberra. [ANS_END]
+
+[Q] What is the formula for the area of a circle?
+[A] The formula for the area of a circle is A = πr², where A represents the area and r represents the radius. [ANS_END]
+
+[Q] Who invented the telephone?
+[A] Alexander Graham Bell is credited with inventing the telephone. [ANS_END]
+
+[Q] What is the largest organ in the human body?
+[A] The largest organ in the human body is the skin. [ANS_END]
+
+[Q] What is the chemical formula for water?
+[A] The chemical formula for water is H2O. [ANS_END]
+
+[Q] Who painted the Sistine Chapel ceiling?
+[A] The Sistine Chapel ceiling was painted by Michelangelo. [ANS_END]
+
+[Q] What is the largest continent in the world?
+[A] Asia is the largest continent in the world. [ANS_END]
+
+[Q] Who discovered penicillin?
+[A] Alexander Fleming is credited with the discovery of penicillin. [ANS_END]
+
+[Q] What is the capital city of China?
+[A] The capital city of China is Beijing. [ANS_END]
+
+[Q] What is the formula for calculating density?
+[A] Density is calculated by dividing the mass of an object by its volume. The formula is density = mass/volume. [ANS_END]
